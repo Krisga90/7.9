@@ -1,0 +1,1 @@
+use of pointer on struct in functions
